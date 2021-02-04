@@ -1,2 +1,2 @@
 # ToDo-App
-An app to manage To-Do Tasks..
+An app to manage To-Do Tasks using React.JS..
